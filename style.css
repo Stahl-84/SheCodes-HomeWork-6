@@ -96,3 +96,8 @@ a {
   right: 560px;
   top: 195px;
 }
+
+.link {
+  font-size: 15px;
+  text-decoration: underline;
+}
